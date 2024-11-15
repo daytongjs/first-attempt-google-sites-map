@@ -1,6 +1,6 @@
 var json_cities_8 = {
     "type": "FeatureCollection",
-    "name": "cities_8",
+    "name": "ities_8",
     "crs": {
         "type": "name",
         "properties": {
@@ -11,7 +11,7 @@ var json_cities_8 = {
         {
             "type": "Feature",
             "properties": {
-                "fid": "1",
+                "days": "1",
                 "City": "Cincinnati, United States",
                 "Latitude": 39.10145,
                 "Longitude": -84.51246,
@@ -25,7 +25,7 @@ var json_cities_8 = {
         {
             "type": "Feature",
             "properties": {
-                "fid": "2",
+                "fid": "1-2",
                 "City": "Washington, D.C.",
                 "Latitude": 38.89504,
                 "Longitude": -77.03654
@@ -38,7 +38,7 @@ var json_cities_8 = {
         {
             "type": "Feature",
             "properties": {
-                "fid": "3",
+                "fid": "2-3",
                 "City": "Dublin, Ireland",
                 "Latitude": 53.34938,
                 "Longitude": -6.26056
@@ -51,7 +51,7 @@ var json_cities_8 = {
         {
             "type": "Feature",
             "properties": {
-                "fid": "4",
+                "fid": "3",
                 "City": "Holyhead, UK",
                 "Latitude": 53.31067,
                 "Longitude": -4.6331
@@ -64,7 +64,7 @@ var json_cities_8 = {
         {
             "type": "Feature",
             "properties": {
-                "fid": "5",
+                "fid": "3-4",
                 "City": "Caernarfon, UK",
                 "Latitude": 53.13944,
                 "Longitude": -4.27698
@@ -77,7 +77,7 @@ var json_cities_8 = {
         {
             "type": "Feature",
             "properties": {
-                "fid": "6",
+                "fid": "4",
                 "City": "Bangor, UK",
                 "Latitude": 53.22772,
                 "Longitude": -4.12688
@@ -90,7 +90,7 @@ var json_cities_8 = {
         {
             "type": "Feature",
             "properties": {
-                "fid": "7",
+                "fid": "5",
                 "City": "Gwynedd, UK",
                 "Latitude": 52.90896,
                 "Longitude": -3.83352
